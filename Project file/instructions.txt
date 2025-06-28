@@ -1,0 +1,6 @@
+Instructions:
+1. Import the update set: FamilyExpensesUpdate
+2. Create the tables u_family_member and u_daily_expenses using the definitions in /tables/
+3. Configure relationships as per /relationships/
+4. Add the business rule found in /business_rules/
+5. Configure Related List for Family Member → Daily Expenses
