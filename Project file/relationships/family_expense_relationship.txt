@@ -1,0 +1,4 @@
+Relationship: One-to-Many
+Reference Field: family_member (in u_daily_expenses)
+Referenced Table: u_family_member
+Related List: Daily Expenses on Family Member form
