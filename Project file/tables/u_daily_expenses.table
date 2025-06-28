@@ -1,0 +1,7 @@
+Table Name: u_daily_expenses
+Fields:
+- date (Date)
+- category (Choice: Food, Rent, Transport, etc.)
+- amount (Currency)
+- notes (String)
+- family_member (Reference to u_family_member)

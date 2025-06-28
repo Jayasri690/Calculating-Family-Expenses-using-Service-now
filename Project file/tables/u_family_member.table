@@ -1,0 +1,6 @@
+Table Name: u_family_member
+Fields:
+- name (String)
+- relation (String)
+- age (Integer)
+- income (Currency)
